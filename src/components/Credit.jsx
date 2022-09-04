@@ -18,6 +18,7 @@ const CreditSec = styled.div`
       font-size: 2rem;
       text-align: center;
       margin-bottom: 1rem;
+      padding: 0 2rem;
 
       span {
         color: #49ad09;
